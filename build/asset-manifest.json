@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flight-Finder/static/css/main.ad4bbdcc.css",
+    "main.js": "/Flight-Finder/static/js/main.5d18166d.js",
+    "index.html": "/Flight-Finder/index.html",
+    "main.ad4bbdcc.css.map": "/Flight-Finder/static/css/main.ad4bbdcc.css.map",
+    "main.5d18166d.js.map": "/Flight-Finder/static/js/main.5d18166d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4bbdcc.css",
+    "static/js/main.5d18166d.js"
+  ]
+}
